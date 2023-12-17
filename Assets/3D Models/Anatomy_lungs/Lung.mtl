@@ -1,0 +1,31 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 29.08.2015 17:32:29
+
+newmtl br_tr
+	Ns 55.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.5670 0.5670 0.5670
+	Ke 0.0000 0.0000 0.0000
+	map_Ka brd.JPG
+	map_Kd brd.JPG
+
+newmtl lung_LOBE
+	Ns 51.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.6930 0.6930 0.6930
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Lungd.jpg
+	map_Kd Lungd.jpg
+	map_bump Lungb.jpg

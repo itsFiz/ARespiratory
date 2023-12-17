@@ -1,0 +1,59 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 17.11.2015 07:46:58
+
+newmtl alv
+	Ns 66.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7725 0.6549 0.5882
+	Kd 0.5176 0.2627 0.1255
+	Ks 0.5040 0.5040 0.5040
+	Ke 0.1725 0.0275 0.0000
+	map_Ka alvpd.jpg
+	map_Kd alvpd.jpg
+	map_bump Map__329_Normal_Bump.tga
+
+newmtl vein_1
+	Ns 77.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 1.0530 1.0530 1.0530
+	Ke 0.0000 0.0000 0.0000
+	map_Ka alvpd.jpg
+	map_Kd alvpd.jpg
+
+newmtl vein_2
+	Ns 77.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 1.0530 1.0530 1.0530
+	Ke 0.0000 0.0000 0.0000
+	map_Ka alvpd.jpg
+	map_Kd alvpd.jpg
+
+newmtl int_alv
+	Ns 44.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5961 0.4745 0.5373
+	Ks 0.5580 0.5580 0.5580
+	Ke 0.0000 0.0000 0.0000
+	map_Ka alvpd.jpg
+	map_Kd alvpd.jpg

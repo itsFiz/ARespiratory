@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0-Main/0- Splash.unity
+    guid: eb42b487eb069184a9e397c9aa90f4ad
+  - enabled: 1
+    path: Assets/Scenes/0-Main/1- Welcome.unity
+    guid: d2ddb35165ea43240841ec291eb103ca
+  - enabled: 1
+    path: Assets/Scenes/0-Main/2-0 Main Menu.unity
+    guid: cba83e9c5a554e34f90440ff4b90d6b1
+  - enabled: 1
+    path: Assets/Scenes/0-Main/3-0 Overview.unity
+    guid: 1272c529a1bf16d4eb55ba6edf5b8459
+  - enabled: 1
+    path: Assets/Scenes/0-Main/4-0 Anatomy.unity
+    guid: a5b2a675600177d4d855a617c8515846
+  - enabled: 1
+    path: Assets/Scenes/0-Main/4-0 Select AR.unity
+    guid: 2e2093ca022f84147b2d23586f44cc8c
+  - enabled: 1
+    path: Assets/Scenes/0-Main/5-0 Info.unity
+    guid: a24200ff38e9c104190aa9947f8c9180
+  - enabled: 1
+    path: Assets/Scenes/1-Anatomy/4-1 Lungs.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/1-Anatomy/4-2 Alveoli.unity
+    guid: 07f4b2cce00c47344a1f591b3eff9cde
+  - enabled: 1
+    path: Assets/Scenes/2-Physiology/2-0 Physiology.unity
+    guid: e7c61f4f1c6e79d40b3b389edcbf1e78
+  - enabled: 1
+    path: Assets/Scenes/2-Physiology/2-1 Breathing.unity
+    guid: 935c86842baef914293bce00ca55bde3
+  - enabled: 1
+    path: Assets/Scenes/2-Physiology/2-2 Gas exchange.unity
+    guid: 930ead4cdd4141d4fa59bccf650adfbf
+  - enabled: 1
+    path: Assets/Scenes/3-Pathology/3-0 Pathology.unity
+    guid: 240b89f202a9c2f43a353c49dec05afa
+  - enabled: 1
+    path: Assets/Scenes/3-Pathology/3-1 Diseases.unity
+    guid: f5c53c508be8c7e4a920cc19ad6a5593
+  - enabled: 1
+    path: Assets/Scenes/4-Quiz/4-0 Quiz.unity
+    guid: 0c2ad4926af73f840967e9c2c71aba6a
+  - enabled: 1
+    path: Assets/Scenes/4-Quiz/4-1 TrueFalse.unity
+    guid: b9374a35127930a4fb551f1a56bd23f3
+  - enabled: 1
+    path: Assets/Scenes/4-Quiz/4-2 DragDrop.unity
+    guid: 8d6da5fd563ecb94e9f7f635232440b5
+  - enabled: 1
+    path: Assets/Scenes/4-Quiz/4-3 RightLung.unity
+    guid: adb316ad63c0f834c9fa16817f5b1504
+  - enabled: 1
+    path: Assets/Scenes/4-Quiz/4-4 LeftLung.unity
+    guid: 33b38d4c27bcd334ab0217fbc76cfd6f
+  - enabled: 1
+    path: Assets/Scenes/4-Quiz/4-5 Trachea.unity
+    guid: a711ce4e3875d5343ad7b85b2bf45259
+  - enabled: 1
+    path: Assets/Scenes/2-Physiology/4-3 TracheaBronchi.unity
+    guid: e8b356683d3100b4981ea73a8665c271
+  - enabled: 1
+    path: Assets/Scenes/2-Physiology/4-4 BloodCell.unity
+    guid: 8909543bfb55e7641b9515f3fac16f3a
+  - enabled: 1
+    path: Assets/Scenes/0-Main/6-0 Acknowledgement.unity
+    guid: 9c98a96a0e3267440aae6291cc764f24
+  - enabled: 1
+    path: Assets/Scenes/0-Main/7-0 User Guide.unity
+    guid: 0c6506ce056be544dac18cc1415b6e48
+  m_configObjects: {}
