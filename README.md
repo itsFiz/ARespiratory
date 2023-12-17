@@ -6,7 +6,7 @@
 ARespiratory is an innovative educational project developed using Vuforia and Unity, designed to enhance the learning experience of medical students studying the anatomy and physiology of the respiratory system. This augmented reality (AR) application combines 3D models, interactive quizzes, text-to-speech features, informative diagrams, and instructional videos to create an immersive and engaging learning environment.
 
 ## App Screenshot
-![screenshot](https://github.com/itsFiz/matlab-face-recognition/blob/master/fr-matlab.jpg)
+![screenshot]https://github.com/itsFiz/itsFiz/blob/main/ARespiratory%20Landing%20Page.png)
 
 ## 🛠 Built With Unity & Vuforia
 
