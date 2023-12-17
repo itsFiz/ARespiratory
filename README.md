@@ -1,113 +1,25 @@
 
-<h1 align='center'> ARespiratory - Hafiz Kadir 🤟🏻 </h1>
-
-
-# Table of Contents
-
-- [Table of Contents](#-table-of-contents)
-- [ Portfolio - Hafiz Kadir 🤟🏻](#-about-project-)
-  - [🛠 Built With ](#-built-with-)
-    - [Tech Stack ](#tech-stack-)
-    - [Key Features ](#key-features-)
-  - [💻 Getting Started ](#-getting-started-)
-    - [Prerequisites](#prerequisites)
-    - [Setup](#setup)
-    - [Install](#install)
-    - [Usage](#usage)
-  - [👥 Authors ](#-authors-)
-  - [⭐️ Show your support ](#️-show-your-support-)
-  - [🙏 Acknowledgments ](#-acknowledgments-)
-  - [❓ FAQ ](#-faq-)
-
-<!-- PROJECT DESCRIPTION -->
-
-# Portfolio - Hafiz Kadir 🤟🏻 <a name="about-project"></a>
-
-This Personal Portfolio is a dynamic and interactive portfolio website built with React and Redux in the Front-End. It provides a modern and visually appealing platform for showcasing your skills, projects, and achievements to potential employers or clients.
-
-## 🛠 Built With <a name="built-with"></a>
-
-### Tech Stack <a name="tech-stack"></a>
-
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-### App Screenshot
-![screenshot](https://github.com/itsFiz/itsFiz/blob/main/ARespiratory%20Landing%20Page.png)
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-
-To get a local copy up and running, follow these steps.
-
-### Prerequisites
-
-In order to run this project you need:
-- [x] A web browser like Google Chrome.
-- [x] A code editor like Visual Studio Code with Git and Node.js.
-
-You can check if Git is installed by running the following command in the terminal.
-```
-$ git --version
-```
-
-Likewise for Node.js and npm for package installation.
-```
-$ node --version && npm --version
-```
-### Setup
-
-Clone this repository using the GitHub link provided below.
-
-
-### Install
-
-In the terminal, go to your file directory and run this command.
-
-```
-$ git clone https://github.com/itsFiz/react-portfolio.git
-```
+<h1 align='center'> ARespiratory - Augmented Reality Learning Experience for Respiratory System Anatomy 🔬🧪 </h1>
 
 
 
-### Usage
+ARespiratory is an innovative educational project developed using Vuforia and Unity, designed to enhance the learning experience of medical students studying the anatomy and physiology of the respiratory system. This augmented reality (AR) application combines 3D models, interactive quizzes, text-to-speech features, informative diagrams, and instructional videos to create an immersive and engaging learning environment.
 
-Kindly modify the files as needed.
+## App Screenshot
+![screenshot](https://github.com/itsFiz/matlab-face-recognition/blob/master/fr-matlab.jpg)
 
-In the project directory, you can run:
-```
-$ npm start
-```
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🛠 Built With Unity & Vuforia
 
-The page will reload when you make changes.
-
-You may also see any lint errors in the console.
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
+## 👥 Inventors <a name="authors"></a>
 
 👤 **Hafiz Kadir**
 
 - GitHub: [@itsFiz](https://github.com/itsFiz)
-- Twitter: [@criedfizcken](https://twitter.com/criedfizcken)
 - LinkedIn: [Hafiz Kadir](https://www.linkedin.com/in/hfzkdr/)
 - Youtube: [Hafiz Kadir](https://www.youtube.com/@criedfizcken6200)
+
+👤 **Prof. Dr. Rahmita Wirza**
+👤 **Dr. Rafidah Hod**
 
 
 
