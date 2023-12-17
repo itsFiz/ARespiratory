@@ -23,10 +23,6 @@ ARespiratory is an innovative educational project developed using Vuforia and Un
 
 
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
